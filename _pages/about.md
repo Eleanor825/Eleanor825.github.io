@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Intern @ MILA
+subtitle: Researcher @ MILA
 
 profile:
   align: right
