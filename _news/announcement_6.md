@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[One paper accepted by IMWUT 2023](https://aclanthology.org/2023.findings-emnlp.380.pdf)!
+Our paper [Eggly](https://aclanthology.org/2023.findings-emnlp.380.pdf) accepted by IMWUT 2023!

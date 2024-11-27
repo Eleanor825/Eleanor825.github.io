@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Our paper accepted by IMWUT 2024](https://dl.acm.org/doi/10.1145/3699738)!
+Our paper [Emooly](https://dl.acm.org/doi/10.1145/3699738) has been accepted by IMWUT 2024!
