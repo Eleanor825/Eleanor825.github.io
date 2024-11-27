@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper [HoneyBee](https://aclanthology.org/2023.findings-emnlp.380.pdf)accepted by Findings of EMNLP 2023!
+One paper [HoneyBee](https://aclanthology.org/2023.findings-emnlp.380.pdf) has been accepted by Findings of EMNLP 2023!
